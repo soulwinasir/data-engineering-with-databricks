@@ -142,7 +142,7 @@ print("Hello Python!")
 
 # MAGIC %sql
 # MAGIC 
-# MAGIC select "Hello SQL!"
+# MAGIC select "Hello SQL! from Databricks"
 
 # COMMAND ----------
 
